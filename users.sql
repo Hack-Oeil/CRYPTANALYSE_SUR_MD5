@@ -1,3 +1,4 @@
+-- Le flag est le MD5 du mot de passe du cron
 INSERT INTO users (ID, firstname, lastname, username, password, auth_password)
 VALUES
   (1, '-', '-', 'cron', 'd227e7c1f2e95190f865c89f4e8b5c7e', '2'),
