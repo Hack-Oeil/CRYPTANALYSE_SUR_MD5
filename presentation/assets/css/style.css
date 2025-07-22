@@ -38,7 +38,6 @@ section { clear: both; overflow: hidden; }
 .big-padding-top { padding-top: 75px !important; }
 .big-padding-bottom { padding-bottom: 85px !important; }
 [class*='col-'] { float: left; padding: 20px; }
-#clients .col-2-3 [class*='col-'] { padding: 0; }
 .clearfix:after { content: ""; display: table; clear: both; }
 h1 { padding: 20px 0; }
 h2 { padding: 14px 0; }
